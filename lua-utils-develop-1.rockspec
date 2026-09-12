@@ -1,5 +1,5 @@
 package = "Lua-Utils"
-version = "2026.09.12-1"
+version = "develop-1"
 source = {
    url = "git+https://github.com/paulao255/Lua-Utils.git",
 	 branch = "main"

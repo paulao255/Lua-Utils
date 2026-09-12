@@ -15,7 +15,7 @@ M.MAJOR_VERSION = 2026;
 M.MINOR_VERSION = 9;
 
 -- Lua Utils patch version.
-M.PATCH_VERSION = 11;
+M.PATCH_VERSION = 12;
 
 -- Lua Utils revision version.
 M.REVISION_VERSION = 1;
