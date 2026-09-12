@@ -73,10 +73,6 @@ function M.get_lua_version()
 	local versions =
 	{
 		["Lua 5.1"] = "5.1",
-		["Lua 5.2"] = "5.2",
-		["Lua 5.3"] = "5.3",
-		["Lua 5.4"] = "5.4",
-		["Lua 5.5"] = "5.5"
 	};
 
 	return versions[_VERSION] or nil;

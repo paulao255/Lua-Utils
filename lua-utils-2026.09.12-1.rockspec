@@ -1,7 +1,8 @@
 package = "Lua-Utils"
 version = "2026.09.12-1"
 source = {
-   url = "git+https://github.com/paulao255/Lua-Utils.git"
+   url = "git+https://github.com/paulao255/Lua-Utils.git",
+	 branch = "main"
 }
 description = {
    summary = "A Lua utilities library working with Lua 5.1 and LuaJIT.",
