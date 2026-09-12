@@ -18,7 +18,7 @@ M.MINOR_VERSION = 9;
 M.PATCH_VERSION = 12;
 
 -- Lua Utils revision version.
-M.REVISION_VERSION = 1;
+M.REVISION_VERSION = 2;
 --------------------------
 -- Lua Utils functions: --
 --------------------------
