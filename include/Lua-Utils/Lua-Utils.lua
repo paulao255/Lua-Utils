@@ -8,9 +8,6 @@ local M = {};
 -- Lua Utils variables: --
 --------------------------
 
--- Lua Utils full version.
-M.FULL_VERSION = 20260911;
-
 -- Lua Utils major version.
 M.MAJOR_VERSION = 2026;
 
@@ -20,6 +17,8 @@ M.MINOR_VERSION = 9;
 -- Lua Utils patch version.
 M.PATCH_VERSION = 11;
 
+-- Lua Utils revision version.
+M.REVISION_VERSION = 1;
 --------------------------
 -- Lua Utils functions: --
 --------------------------

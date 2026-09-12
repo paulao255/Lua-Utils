@@ -14,7 +14,7 @@ local application_standards =
 	"Lua 5.1",
 	"LuaJIT"
 };
-local application_version = "2026-09-11";
+local application_version = "2026-09-12.1";
 local commands =
 {
 	"help",
