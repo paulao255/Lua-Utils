@@ -12,10 +12,10 @@ local M = {};
 M.VERSION_MAJOR = 2026;
 
 -- Lua Utils minor version.
-M.VERSION_MINOR = 9;
+M.VERSION_MINOR = 10;
 
 -- Lua Utils patch version.
-M.VERSION_PATCH = 17;
+M.VERSION_PATCH = 7;
 
 -- Lua Utils revision version.
 M.VERSION_REVISION = 1;
